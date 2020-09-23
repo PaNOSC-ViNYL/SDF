@@ -1,6 +1,6 @@
-[submodule "SDF_C"]
-	path = SDF_C
+[submodule "C"]
+	path = C
 	url = https://github.com/PaNOSC-ViNYL/SDF_C.git
-[submodule "SDF_utilities"]
-	path = SDF_utilities
+[submodule "utilities"]
+	path = utilities
 	url = https://github.com/PaNOSC-ViNYL/SDF_utilities.git
